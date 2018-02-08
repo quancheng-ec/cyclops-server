@@ -1,0 +1,13 @@
+{
+  "name": "cyclops-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:quancheng-ec/cyclops-server.git",
+  "author": "zephyr <zhangxin@quancheng-ec.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@koa/cors": "2",
+    "koa": "^2.4.1",
+    "koa-bodyparser": "^4.2.0"
+  }
+}
